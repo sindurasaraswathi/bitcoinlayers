@@ -22,7 +22,7 @@
         "https://github.com/btclayer2/BEVM",
         "https://twitter.com/BTCLayer2"
     ],
-    "description": "BEVM is an EVM-compatible sidechain, built on substrate, designed for Bitcoin. On the BEVM chain, the BTC is held in custody by a federated multi-signature address. Its goal is to make it easier for Bitcoin to be seamlessly integrated into the Ethereum ecosystem.",
+    "description": "BEVM is an EVM-compatible sidechain, built on substrate, designed for Bitcoin. On the BEVM chain, BTC is held in custody by a federated multi-signature address. Its goal is to make it easier for Bitcoin to be seamlessly integrated into the Ethereum ecosystem.",
     "riskAnalysis": [
         {
             "category": "Bridge Custody",
